@@ -4,3 +4,6 @@ Automaticly generate model and visualization using Streamlit
 > Denjaura, sesuatu yang kucinta dan ingin kumiliki.
 
 **Link app**: [https://denjaura-project.streamlit.app/](https://denjaura-project.streamlit.app/)
+- Regression
+  - [ ] ??
+- Clasification
