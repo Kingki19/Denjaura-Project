@@ -1,5 +1,5 @@
 import streamlit as st
-from .test import *
+from test import *
 st.title('Denjaura Project')
 
 func_test()
